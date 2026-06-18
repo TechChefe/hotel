@@ -24,13 +24,14 @@ src/main/java/com/ots/hotel/
 
 ├── entities/       # Database entities (@Entity)
 
-├── enums/          # Enumeration types
+├── enums/          # Enumeration types (e.g. RoomType, BookingStatus)
 
 ├── exception/      # Exception handling
 
 ├── repository/     # Data access via JPA (@Repository)
 
 └── service/        # Business logic (@Service)
+
 
 ## Features
 
